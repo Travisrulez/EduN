@@ -187,7 +187,7 @@ if(isset($_POST['submit'] ))
             <div class="container">
                 <div class="row top-footer">
                     <div class="col-xs-12 col-sm-3 footer-logo-block color-gray">
-                        <a href="#"> <img src="images/food-picky-logo.png" alt="Footer logo"> </a> <span>Закажите сами&amp; Заберите заказ </span> </div>
+                        <a href="#"> <img src="images/edun_back2-01.png" alt="Footer logo"> </a> <span>Закажите сами&amp; Заберите заказ </span> </div>
                     <div class="col-xs-12 col-sm-2 about color-gray">
                         <h5>О нас</h5>
                         <ul>
