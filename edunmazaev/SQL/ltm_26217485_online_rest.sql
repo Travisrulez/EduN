@@ -42,8 +42,8 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`adm_id`, `username`, `password`, `email`, `code`, `date`) VALUES
-(6, 'admin', '81dc9bdb52d04dc20036dbd8313ed055', 'admin@gmail.com', '', '2018-04-09 07:36:18'),
-(8, 'abc888', '6d0361d5777656072438f6e314a852bc', 'abc@gmail.com', 'QX5ZMN', '2018-04-13 18:12:30');
+(6, 'admin', '81dc9bdb52d04dc20036dbd8313ed055', 'admin@gmail.com', '', '2020-06-23 08:57:53'),
+(8, 'abc888', '6d0361d5777656072438f6e314a852bc', 'abc@gmail.com', 'QX5ZMN', '2020-05-01 21:12:30');
 
 -- --------------------------------------------------------
 
@@ -118,15 +118,6 @@ CREATE TABLE `remark` (
 --
 
 INSERT INTO `remark` (`id`, `frm_id`, `status`, `remark`, `remarkDate`) VALUES
-(62, 32, 'in process', 'hi', '2018-04-18 17:35:52'),
-(63, 32, 'closed', 'cc', '2018-04-18 17:36:46'),
-(64, 32, 'in process', 'fff', '2018-04-18 18:01:37'),
-(65, 32, 'closed', 'its delv', '2018-04-18 18:08:55'),
-(66, 34, 'in process', 'on a way', '2018-04-18 18:56:32'),
-(67, 35, 'closed', 'ok', '2018-04-18 18:59:08'),
-(68, 37, 'in process', 'on the way!', '2018-04-18 19:50:06'),
-(69, 37, 'rejected', 'if admin cancel for any reason this box is for remark only for buter perposes', '2018-04-18 19:51:19'),
-(70, 37, 'closed', 'delivered success', '2018-04-18 19:51:50'),
 (71, 40, 'in process', 'ew3rfer', '2020-07-01 11:47:00'),
 (72, 1, 'отменен', 'dwsfer', '2020-07-08 21:22:32'),
 (73, 1, 'В процессе', 'bgfbgf', '2020-07-08 21:23:56'),
